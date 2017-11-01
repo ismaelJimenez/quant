@@ -2,7 +2,7 @@ options(digits=4, width=70)
 library(PerformanceAnalytics)
 # load portfolio theory functions
 # source portfolio functions
-source(file="/home/ismael/Documents/Investment/Course/portfolio.r")
+source(file="https://raw.githubusercontent.com/ismaelJimenez/quant/master/portfolio.r")
 
 cex.val = 2
 
